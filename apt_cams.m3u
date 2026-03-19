@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:0,Camera 1 - Stair Case
+#EXTINF:-1,Camera 1 - Stair Case
 rtsp://admin:onjefu%2323@192.168.8.203:554/cam/realmonitor?channel=1&subtype=1					
 #EXTM3U
-#EXTINF:0,Camera 2 - Car Park	
+#EXTINF:-1,Camera 2 - Car Park
 rtsp://admin:onjefu%2323@192.168.8.202:554/cam/realmonitor?channel=1&subtype=1
 #EXTM3U
-#EXTINF:0,Camera 3 - Tap													
+#EXTINF:-1,Camera 3 - Tap
 rtsp://admin:onjefu%2323@192.168.8.205:554/cam/realmonitor?channel=1&subtype=1
 #EXTM3U
-#EXTINF:0,Camera 4 - Soakaway						
+#EXTINF:-1,Camera 4 - Soakaway
 rtsp://admin:onjefu%2323@192.168.8.204:554/cam/realmonitor?channel=1&subtype=1
-#EXTINF:0,Camera 5 - workshop													
-rtsp://admin:onjefu%2323@192.168.8.207:554/cam/realmonitor?channel=1&subtype=1								
+#EXTINF:-1,Camera 5 - workshop
+rtsp://admin:onjefu%2323@192.168.8.207:554/cam/realmonitor?channel=1&subtype=1
